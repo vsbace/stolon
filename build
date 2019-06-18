@@ -10,7 +10,7 @@ if [ $PWD != $BASEDIR ]; then
 	cd $BASEDIR
 fi
 
-ORG_PATH="github.com/vsbace"
+ORG_PATH="github.com/sorintlab"
 REPO_PATH="${ORG_PATH}/stolon"
 
 mkdir -p ${BINDIR}
