@@ -1,4 +1,4 @@
-module github.com/sorintlab/stolon
+module github.com/vsbace/stolon
 
 require (
 	github.com/Azure/go-autorest v9.10.0+incompatible // indirect
